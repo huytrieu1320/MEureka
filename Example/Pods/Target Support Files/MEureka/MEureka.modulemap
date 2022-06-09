@@ -1,0 +1,6 @@
+framework module MEureka {
+  umbrella header "MEureka-umbrella.h"
+
+  export *
+  module * { export * }
+}

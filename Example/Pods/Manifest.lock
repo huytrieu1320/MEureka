@@ -1,0 +1,16 @@
+PODS:
+  - MEureka (0.1.0)
+
+DEPENDENCIES:
+  - MEureka (from `../`)
+
+EXTERNAL SOURCES:
+  MEureka:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MEureka: 84fe26b02b1b4aa71c8694335ca9c058ad484242
+
+PODFILE CHECKSUM: e577747af47d8766388be564e3ef878e48c5dacd
+
+COCOAPODS: 1.11.2
